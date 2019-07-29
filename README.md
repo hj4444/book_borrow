@@ -6,3 +6,10 @@
 1、app：以bloc进行交互
 2：api：golang
 3：db：mysql
+
+
+部署：
+api、sql都在https://github.com/hj4444/book_borrow_api.git里面，golang如何部署可以网上查一下
+
+声明：
+本项目有些代码是参考或者直接从开源项目来的，在此表示感谢！
