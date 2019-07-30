@@ -7,6 +7,11 @@
 2：api：golang
 3：db：mysql
 
+主要页面图片：
+
+![image](https://github.com/hj4444/book_borrow/blob/master/images/1.png) ![image](https://github.com/hj4444/book_borrow/blob/master/images/1.png)                                                   
+
+
 
 部署：
 api、sql都在https://github.com/hj4444/book_borrow_api.git里面，golang如何部署可以网上查一下
