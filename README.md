@@ -9,7 +9,13 @@
 
 主要页面图片：
 
-![image](https://github.com/hj4444/book_borrow/blob/master/images/1.png) ![image](https://github.com/hj4444/book_borrow/blob/master/images/1.png)                                                   
+![image](https://github.com/hj4444/book_borrow/blob/master/images/1.png) 
+![image](https://github.com/hj4444/book_borrow/blob/master/images/2.png)
+![image](https://github.com/hj4444/book_borrow/blob/master/images/3.png)
+![image](https://github.com/hj4444/book_borrow/blob/master/images/4.png)
+![image](https://github.com/hj4444/book_borrow/blob/master/images/5.png)
+![image](https://github.com/hj4444/book_borrow/blob/master/images/6.png)
+![image](https://github.com/hj4444/book_borrow/blob/master/images/7.png)
 
 
 
